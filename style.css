@@ -1,0 +1,31 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(81, 86, 155);
+}
+h1 {
+    background-color: #241d56;
+    color:white;
+    text-align: center;
+    padding: 2vh 2vw;
+    margin-bottom: 2vh;
+    font-size: 4rem;
+    margin: 24px;
+}
+section{
+    display: flex;
+    gap: 10vw;
+    margin: 0% 3vw;
+    background-color: #354e91;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    padding: 2vh 3vw;
+    
+}
+.icon{
+    height: 10wh;
+    background-color: #241d56;
+}
